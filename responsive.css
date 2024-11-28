@@ -1,0 +1,53 @@
+@media all and (max-width:645px){
+    .notice{
+        width: 500px;
+    }
+
+    h1{
+        font-size: 70px;
+    }
+
+    p{
+        font-size: 25px;
+    }
+}
+
+@media all and (max-width:560px){
+    .notice{
+        width: 450px;
+    }
+}
+
+@media all and (max-width:500px){
+    .notice{
+        width: 400px;
+    }
+}
+
+@media all and (max-width:435px){
+    .notice{
+        width: 350px;
+    }
+
+    h1{
+        font-size: 60px;
+    }
+
+    p{
+        font-size: 25px;
+    }
+}
+
+@media all and (max-width:375px){
+    .notice{
+        width: 280px;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+}
